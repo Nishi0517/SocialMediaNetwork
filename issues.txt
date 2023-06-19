@@ -1,0 +1,12 @@
+
+
+project is with react & core api 
+
+working good with login, registration & logout & other crud operation
+
+
+Database- socialnetwork
+
+database-  "ConnectionStrings": {
+    "SNCon": "server=ATI-1;database=SocialNetwork;Integrated Security=True; MultipleActiveResultSets=true; TrustServerCertificate=True;"
+  }
